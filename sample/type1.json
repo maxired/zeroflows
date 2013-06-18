@@ -1,0 +1,20 @@
+{
+  "name": "type1",
+  "sockets": [
+    {
+      "name": "in0",
+      "type": "zmq:SUB",
+      "connect": { "type0.out0": "all" }
+    },
+    {
+      "name": "in1",
+      "type": "zmq:PULL",
+      "connect": { "type0.out0": "near:2" }
+    },
+    {
+      "name": "out0",
+      "type": "zmq:PUB",
+      "bind": [ "tcp://*:0" ]
+    }
+  ]
+}
