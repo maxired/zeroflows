@@ -19,7 +19,7 @@ to the project.
 (http://www.gnu.org/licenses/agpl.html).
 
 
-Thrid Party libraries
+Third-party libraries
 ---------------------
 
 *ZeroMQ* 3.2.3 (http://zeromq.org) provides a taste a brokerless BUS.
