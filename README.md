@@ -46,10 +46,14 @@ You will require *cmake* to build and configure the Makefile.
      [nobody@localhost /tmp]$ make install
 
 
+
+![https://raw.github.com/jfsmig/zeroflows/master/doc/logo.svg](http://svg.tutorial.aptico.de/grafik_svg/dummy3.svg)
+
 TODO
 ----
 
 This is still an early release.
 There is a lot to do to make it easy to use.
+<iframe src="circle1.svg"></iframe>
 
 <embed src="https://github.com/jfsmig/zeroflows/raw/master/doc/logo.svg" type="image/svg+xml" />
