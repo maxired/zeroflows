@@ -52,3 +52,4 @@ TODO
 This is still an early release.
 There is a lot to do to make it easy to use.
 
+<embed src="https://github.com/jfsmig/zeroflows/raw/master/doc/logo.svg" type="image/svg+xml" />
